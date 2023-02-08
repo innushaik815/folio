@@ -1,0 +1,96 @@
+body {
+  background-color: rgb(236, 232, 228);
+}
+.sam_name {
+  background-color: rgb(236, 232, 228);
+  width: 80px;
+  border: 8px solid rgb(23, 30, 23);
+  border-radius: 20px;
+  padding: 30px;
+  margin: 30px;
+  text-align: center;
+  font-family: "Caveat", Courier, monospace;
+}
+.name_div {
+  margin-left: 300px;
+  text-align: center;
+}
+.sam_desc {
+  background-color: lightcoral;
+  padding-top: 25px;
+  text-align: center;
+  color: rgb(236, 232, 228);
+  margin-left: 350px;
+  height: 50px;
+  width: 800px;
+  border-radius: 10px;
+  font-size: 20px;
+}
+.big_name {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 80px;
+  font-weight: bolder;
+}
+.bignamedesc {
+  font-size: 50px;
+  color: dimgray;
+}
+hr.hr_line {
+  border: 10px solid lightcoral;
+  width: 800px;
+  border-radius: 20px;
+}
+ul {
+  list-style-type: none;
+}
+li {
+  border-bottom:1px solid lightcoral;
+  padding-bottom:1px;
+  margin-left: 300px;
+  width: 800px;
+}
+.pleft {
+  text-align: left;
+}
+h3 {
+  text-align: left;
+  color: rgb(57, 68, 80);
+  font-size: 30px;
+}
+.article_heading_with_pen {
+  margin-left: 320px;
+  color: slategray;
+  text-align: left;
+}
+a {
+  text-align: center;
+  color: rgb(91, 84, 84);
+  text-decoration: none;
+}
+.RecentProjectHeadingwithbulb{
+    margin-left: 320px;
+    color: slategray;
+    text-align: left;
+}
+.featuredalbumwithcameraicon{
+    margin-left: 320px;
+    color: slategray;
+    text-align: left;
+}
+.endingHR{
+    border: 10px solid lightcoral;
+  width: 800px;
+  border-radius: 20px;
+}
+.asidecontent li{
+    padding-bottom: 30px;
+    text-align: left;
+    margin-left:300px;
+    font-size: 30px;
+    color: rgb(91, 84, 84);
+
+}
+
+body {
+  text-align: center;
+}
